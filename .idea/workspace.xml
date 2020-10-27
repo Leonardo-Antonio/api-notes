@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aa1b64e-ce07-46fd-b299-c6dff37ccfed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jQ4GR5CJH64QfsPnoWcFAF0W46" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DBUtils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/Leonardo-Antonio/api-notes" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="api-notes" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/Leonardo-Antonio/api-notes" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/Leonardo-Antonio/api-notes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="251" width="1350" height="296" key="#SQL_Dialects" timestamp="1603725948980">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="0" y="251" width="1350" height="296" key="#SQL_Dialects/0.32.1360.736@0.32.1360.736" timestamp="1603725948980" />
+    <state x="275" y="61" width="800" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603725967525">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="275" y="61" width="800" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1360.736@0.32.1360.736" timestamp="1603725967525" />
+    <state x="437" y="126" width="475" height="545" key="FileChooserDialogImpl" timestamp="1603728796339">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="437" y="126" width="475" height="545" key="FileChooserDialogImpl/0.32.1360.736@0.32.1360.736" timestamp="1603728796339" />
+    <state width="1312" height="173" key="GridCell.Tab.0.bottom" timestamp="1603805428014">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1312" height="173" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1603805428014" />
+    <state width="1312" height="173" key="GridCell.Tab.0.center" timestamp="1603805428013">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1312" height="173" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1603805428013" />
+    <state width="1312" height="173" key="GridCell.Tab.0.left" timestamp="1603805428013">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1312" height="173" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1603805428013" />
+    <state width="1312" height="173" key="GridCell.Tab.0.right" timestamp="1603805428014">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1312" height="173" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1603805428014" />
+    <state x="161" y="35" key="SettingsEditor" timestamp="1603805664554">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="161" y="35" key="SettingsEditor/0.32.1360.736@0.32.1360.736" timestamp="1603805664554" />
+    <state x="413" y="208" width="524" height="382" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1603753333900">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="413" y="208" width="524" height="382" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.32.1360.736@0.32.1360.736" timestamp="1603753333900" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603802760958">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.32.1360.736@0.32.1360.736" timestamp="1603802760958" />
+  </component>
+</project>
