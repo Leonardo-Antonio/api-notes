@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.SCHEMA:DB_Notes</OriginalElement>
+  <nodes>
+    <node x="106.5" y="269.0">f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_notes</node>
+    <node x="182.0" y="0.0">f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_users</node>
+    <node x="0.0" y="65.0">f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_typeOfnote</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_notes" target="f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_users">
+      <point x="36.5" y="-83.5" />
+      <point x="216.0" y="244.0" />
+      <point x="278.0" y="244.0" />
+      <point x="0.0" y="109.5" />
+    </edge>
+    <edge source="f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_notes" target="f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_typeOfnote">
+      <point x="-36.5" y="-83.5" />
+      <point x="143.0" y="244.0" />
+      <point x="81.0" y="244.0" />
+      <point x="0.0" y="44.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7785087719298246" x="187.0" y="218.0" />
+  <SelectedNodes>
+    <node>f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.TABLE:DB_Notes.tb_notes</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
