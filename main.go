@@ -1,20 +1,17 @@
 package main
 
 import (
-	"fmt"
 	dbutils "github.com/Leonardo-Antonio/api-notes/DBUtils"
 	"github.com/Leonardo-Antonio/api-notes/user"
+	"github.com/labstack/echo"
 )
 
 func main() {
 	pool := dbutils.GetConnection(dbutils.MYSQL)
-	u := user.NewStorage(pool)
-	err := u.CreateUser(user.User{
-		LastName: "Nolasco",
-		Email:    "AJNN@gmail.com",
-		Password: "alexandra",
-	})
-	if err != nil {
-		fmt.Println(err)
-	}
+	UserStorage := user.NewStorage(pool)
+	e := echo.New()
+
+	user.Router(UserStorage, e)
+
+	e.Logger.Fatal(e.Start(":8080"))
 }
