@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS tb_users (
     last_name VARCHAR( 30 ) NOT NULL ,
     nick_name VARCHAR( 10 ) NOT NULL ,
     profile LONGBLOB,
-    email VARCHAR( 40 ) NOT NULL ,
+    email VARCHAR( 40 ) NOT NULL UNIQUE ,
     password VARCHAR( 40 ) NOT NULL
 );
 
@@ -26,5 +26,3 @@ CREATE TABLE IF NOT EXISTS tb_notes (
     FOREIGN KEY ( id_user ) REFERENCES tb_users ( id ) ,
     FOREIGN KEY ( id_type ) REFERENCES tb_typeOfnote ( id )
 );
-
-
