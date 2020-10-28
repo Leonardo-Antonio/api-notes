@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS tb_users (
 
 CREATE TABLE IF NOT EXISTS tb_typeOfnote (
     id INT AUTO_INCREMENT NOT NULL PRIMARY KEY ,
-    type VARCHAR( 20 ) NOT NULL
+    type VARCHAR( 20 ) NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS tb_notes (
@@ -26,3 +26,4 @@ CREATE TABLE IF NOT EXISTS tb_notes (
     FOREIGN KEY ( id_user ) REFERENCES tb_users ( id ) ,
     FOREIGN KEY ( id_type ) REFERENCES tb_typeOfnote ( id )
 );
+
