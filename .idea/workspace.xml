@@ -11,9 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aa1b64e-ce07-46fd-b299-c6dff37ccfed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/type_notes/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_notes/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_notes/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_notes/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_notes/sql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_notes/storage.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f5cc1cfc-6602-4bc6-b263-2be6f2e8ada7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DBUtils/BD_Notes.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DBUtils/BD_Notes.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/helper/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,22 +112,22 @@
       <screen x="0" y="32" width="1360" height="736" />
     </state>
     <state x="437" y="126" width="475" height="545" key="FileChooserDialogImpl/0.32.1360.736@0.32.1360.736" timestamp="1603728796339" />
-    <state width="1031" height="173" key="GridCell.Tab.0.bottom" timestamp="1603815861473">
+    <state width="1312" height="173" key="GridCell.Tab.0.bottom" timestamp="1603825406311">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1031" height="173" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1603815861473" />
-    <state width="1031" height="173" key="GridCell.Tab.0.center" timestamp="1603815861472">
+    <state width="1312" height="173" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1603825406311" />
+    <state width="1312" height="173" key="GridCell.Tab.0.center" timestamp="1603825406311">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1031" height="173" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1603815861472" />
-    <state width="1031" height="173" key="GridCell.Tab.0.left" timestamp="1603815861472">
+    <state width="1312" height="173" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1603825406311" />
+    <state width="1312" height="173" key="GridCell.Tab.0.left" timestamp="1603825406311">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1031" height="173" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1603815861472" />
-    <state width="1031" height="173" key="GridCell.Tab.0.right" timestamp="1603815861472">
+    <state width="1312" height="173" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1603825406311" />
+    <state width="1312" height="173" key="GridCell.Tab.0.right" timestamp="1603825406311">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1031" height="173" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1603815861472" />
+    <state width="1312" height="173" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1603825406311" />
     <state x="161" y="35" key="SettingsEditor" timestamp="1603814916480">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
@@ -128,9 +136,13 @@
       <screen x="0" y="32" width="1360" height="736" />
     </state>
     <state x="413" y="208" width="524" height="382" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.32.1360.736@0.32.1360.736" timestamp="1603753333900" />
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603802760958">
+    <state x="0" y="32" width="640" height="736" key="find.popup" timestamp="1603817343514">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.32.1360.736@0.32.1360.736" timestamp="1603802760958" />
+    <state x="0" y="32" width="640" height="736" key="find.popup/0.32.1360.736@0.32.1360.736" timestamp="1603817343514" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603824776584">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.32.1360.736@0.32.1360.736" timestamp="1603824776584" />
   </component>
 </project>
