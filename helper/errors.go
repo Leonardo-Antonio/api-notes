@@ -9,6 +9,7 @@ var (
 	ErrEmailInvalid = errors.New("the email entered is invalid")
 	ErrPasswordNotSecure = errors.New("the password entered is not secure")
 	ErrNickNameIvalid = errors.New("the nick name is invalid")
+	ErrRowNotAffected = errors.New("rows were not affected")
 )
 
 var (
