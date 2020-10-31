@@ -26,4 +26,3 @@ CREATE TABLE IF NOT EXISTS tb_notes (
     FOREIGN KEY ( id_user ) REFERENCES tb_users ( id ) ,
     FOREIGN KEY ( id_type ) REFERENCES tb_typeOfnote ( id )
 );
-
